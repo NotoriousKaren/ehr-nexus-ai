@@ -5,5 +5,8 @@
             "envManager": "ms-python.python:system",
             "packageManager": "ms-python.python:pip"
         }
-    ]
+    ],
+    "git.path": "C:\\Program Files\\Git\\cmd\\git.exe",
+    "git.enabled": true,
+    "git.autofetch": true
 }

@@ -18,3 +18,7 @@ Thumbs.db
 .DS_Store  
 *.log  
 *.db 
+ehr_nexus_ai/ml/saved_models/*.pkl
+ehr_nexus_ai/data/diagnosis_training_*.csv
+ehr_nexus_ai/data/medication_recommendation_training.csv
+.publish/
