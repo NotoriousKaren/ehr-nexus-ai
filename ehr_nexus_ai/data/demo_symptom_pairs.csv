@@ -1,0 +1,47 @@
+symptom_a,symptom_b,label,severity_a,severity_b
+headache,head pain,1,mild,moderate
+headache,cephalgia,1,mild,severe
+fever,pyrexia,1,high,high
+fever,elevated temperature,1,high,moderate
+cough,coughing,1,moderate,moderate
+nausea,feeling sick,1,mild,mild
+nausea,queasy,1,moderate,mild
+vomiting,throwing up,1,severe,severe
+dizziness,vertigo,1,moderate,severe
+dizziness,lightheaded,1,mild,mild
+fatigue,tiredness,1,moderate,moderate
+fatigue,exhaustion,1,severe,severe
+chest pain,chest discomfort,1,severe,moderate
+chest pain,angina,1,severe,severe
+shortness of breath,dyspnea,1,severe,severe
+shortness of breath,difficulty breathing,1,severe,moderate
+abdominal pain,stomach ache,1,moderate,moderate
+abdominal pain,belly pain,1,moderate,mild
+sore throat,throat pain,1,mild,mild
+sore throat,scratchy throat,1,mild,mild
+rash,skin eruption,1,moderate,moderate
+joint pain,arthralgia,1,moderate,severe
+joint pain,joint ache,1,moderate,moderate
+swelling,edema,1,moderate,moderate
+back pain,backache,1,severe,severe
+back pain,lumbago,1,severe,moderate
+headache,fever,0,mild,high
+headache,cough,0,moderate,moderate
+headache,nausea,0,severe,mild
+fever,cough,0,high,moderate
+fever,dizziness,0,high,mild
+cough,nausea,0,moderate,mild
+cough,chest pain,0,moderate,severe
+nausea,dizziness,0,moderate,moderate
+nausea,fatigue,0,mild,severe
+vomiting,headache,0,severe,mild
+dizziness,chest pain,0,moderate,severe
+fatigue,fever,0,severe,high
+chest pain,abdominal pain,0,severe,moderate
+shortness of breath,fatigue,0,severe,moderate
+abdominal pain,back pain,0,moderate,severe
+sore throat,joint pain,0,mild,moderate
+rash,fever,0,moderate,high
+back pain,nausea,0,severe,mild
+joint pain,headache,0,moderate,mild
+swelling,cough,0,mild,moderate
